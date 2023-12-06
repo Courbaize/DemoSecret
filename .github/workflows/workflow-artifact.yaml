@@ -11,7 +11,7 @@ jobs:
     steps:
       - run: |
           ls
-          cat
+          cat my_app.txt
               
           
           
